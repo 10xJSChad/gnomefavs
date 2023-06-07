@@ -7,7 +7,7 @@ gnomefavs is a command-line utility that helps manage GNOME favorite application
 Clone this repository and run the script.
 
 ```bash
-git clone https://github.com/yourusername/gnomefavs.git
+git clone https://github.com/10xJSChad/gnomefavs.git
 cd gnomefavs
 python3 gnomefavs.py
 ```
