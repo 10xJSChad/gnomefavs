@@ -29,6 +29,4 @@ If no options are provided, a help message will be printed.
 
 ## Contributing
 
-Pull requests are welcome. For major changes, please open an issue first to discuss what you would like to change.
-
-Please make sure to update tests as appropriate.
+Anyone is welcome to make a pull request, all contributions are welcome.
