@@ -8,6 +8,11 @@ I'm pretty new to this Linux thing, so I can't guarantee that this works on ever
 https://github.com/10xJSChad/gnomefavs/assets/48174610/e05ef270-69c9-4b28-a502-664861265ae1
 
 
+## Requirements
+
+- Python3 and GNOME should be all
+
+
 ## Installation
 
 Clone this repository and run the script.
