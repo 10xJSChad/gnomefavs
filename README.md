@@ -2,6 +2,10 @@
 
 gnomefavs is a command-line utility that helps manage GNOME favorite applications presets. It allows users to swiftly save, load, list, and remove configurations, providing a flexible way to customize and switch between app layouts in a GNOME environment.
 
+## Preview
+https://github.com/10xJSChad/gnomefavs/assets/48174610/e05ef270-69c9-4b28-a502-664861265ae1
+
+
 ## Installation
 
 Clone this repository and run the script.
