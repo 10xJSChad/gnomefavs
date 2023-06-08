@@ -117,6 +117,10 @@ def load_preset(preset_key: str) -> None:
 def remove_preset(preset_key: str) -> None:
     validate_paths()
     presets = read_presets_to_dict()
+
+    if preset_key not in presets:
+        raise KeyError(f"No preset named {preset_key} could be found")
+    
     presets.pop(preset_key)
     write_presets(presets)
     print(f"Removed preset: {preset_key}")
