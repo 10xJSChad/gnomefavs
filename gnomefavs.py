@@ -134,7 +134,7 @@ def list_presets()-> None:
 
 def print_help() -> None:
     help_text = """
-    Usage: myscript [OPTIONS] [NAME]
+    Usage: python3 gnomefavs.py [OPTION] [NAME]
     
     This script is used for managing GNOME favorites presets.
 
